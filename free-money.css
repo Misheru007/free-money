@@ -1,0 +1,16 @@
+body {
+    text-align-last: center;
+    transform: translateY(200px);
+    background-color: rgb(66, 58, 58);
+    font-family: Benguiat;
+}
+
+.m {color: black;} /*sentence wheres link*/
+.link {color:red;
+           transition:2s;
+           
+} /*rickroll link*/
+    .link:hover {
+        color: orangered;
+    }
+    .link:active {color:darkred}
